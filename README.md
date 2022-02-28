@@ -31,8 +31,7 @@ Using a machine learning classification model, can demographics, diagnoses, medi
 - [Raw Data Storyboard](https://public.tableau.com/views/DiabetesRawData/DiabetesRawData?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 Information here can be filtered relavent to potential screening questions.
 - [Database Data Storyboard](https://public.tableau.com/views/DiabetesDBData/DiabetesDatabaseVisualization?:language=en-US&:display_count=n&:origin=viz_share_link).
-- 
-*Sheets will be hidden once we decide on visuals for dashboard pending final version of database*
+
 
 **Description of Tools to create final dashboard**
 - Dashboard will contain multiple tabs (dashboards) to show different visualizations including bar charts, density charts, pie charts, etc. related to  race, age, gender, as well as other items such as most popular medicines, and the patient's status. The fashboard may also include the original dataset and visualizations similar to the ones based on our data set for the intent of story telling.
